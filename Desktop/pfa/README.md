@@ -63,7 +63,7 @@ cmake --build .
 
 - Neural network implementation with:
   - Input layer (784 neurons)
-  - Hidden layer (128 neurons)
+  - Hidden layer (30 neurons)
   - Output layer (10 neurons)
 - Sigmoid activation function
 - Softmax output layer
